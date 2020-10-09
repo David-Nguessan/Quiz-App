@@ -1,10 +1,10 @@
-const highScoresList = document.getElementById("highScoresList");
+const maximumScoresList = document.getElementById("maximumScoresList");
 
-const highScores = JSON.parse(localStorage.getItem("highScores")) || [];
+const maximumScores = JSON.parse(localStorage.getItem("maximumScores")) || [];
 
 
 
-highScoresList.innerHTML = highScores
+maximumScoresList.innerHTML = highScores
 
 .map(score => {
 
