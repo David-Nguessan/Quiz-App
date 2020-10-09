@@ -1,3 +1,26 @@
 [
-    
+ {
+"question": " Which town is the first capital of Ghana?",
+"choice1": "Tamale",
+"choice2": "Cape Coast",
+"choice3": "Sekondi Takoradi",
+"choice4": "Accra",
+"answer": 2
+},
+{
+"question": "When did Ghana become Republic?",
+"choice1": "1st July,1960",
+"choice2": "4th August,1979",
+"choice3": "4th June,1981",
+"choice4": "6th March,1957",
+"answer": 1
+},
+{
+"question": "Who is the first President of the fourth Republic?",
+"choice1": " John Mahama",
+"choice2": "Jerry John Rawlings",
+"choice3": "Kwame Nkrumah",
+"choice4": "John Agyekum Kuffour",
+"answer": 2
+}
 ]
